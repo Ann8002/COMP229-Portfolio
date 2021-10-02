@@ -1,0 +1,8 @@
+{
+  "name": "comp229-s2021-assignment1-portfolio",
+  "version": "0.0.1",
+  "description": "Assignment1 - Portfolio for COMP229 S2021",
+  "main": "index.js",
+  "author": "Sindhu Binil",
+  "license": "MIT"
+}
