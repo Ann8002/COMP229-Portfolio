@@ -1,14 +1,16 @@
 {
-  "name": "comp229-s2021-assignment1-portfolio",
-  "version": "0.0.1",
-  "description": "Assignment1 - Portfolio for COMP229 S2021",
-  "main": "index.js",
-  "author": "Sindhu Binil",
-  "license": "MIT",
+  "name": "portfolio",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./bin/www"
   },
-  "devDependencies": {
-    "@types/node": "^16.10.2"
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
   }
 }
